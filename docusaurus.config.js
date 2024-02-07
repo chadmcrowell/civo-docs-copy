@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Civo Documentation',
   tagline: 'The Cloud Native Service Provider',
-  url: 'https://www.civo.com',
+  url: 'https://civo-docs.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',

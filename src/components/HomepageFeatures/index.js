@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react-dom';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 

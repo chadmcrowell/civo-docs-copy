@@ -1,14 +1,6 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import clsx from 'clsx';
 import styles from './styles.module.css';
-
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
 
 const FeatureList = [
   {

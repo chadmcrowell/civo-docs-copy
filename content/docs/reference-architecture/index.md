@@ -14,4 +14,4 @@ Reference architectures from Civo provide a standardized framework that incorpor
 
 Reference architectures serve as a roadmap for successful cloud adoption, helping our customers navigate the complexities of cloud services while leveraging the full potential of the Civo cloud in a secure, efficient, and scalable manner.
 
-[![cka-badge](./images/navy-blue.png)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
+[![cka-badge](./images/navy-blue.png)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) [![cka-badge](./images/pink.png)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)

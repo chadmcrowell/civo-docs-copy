@@ -14,7 +14,7 @@ Reference architectures from Civo provide a standardized framework that incorpor
 
 Reference architectures serve as a roadmap for successful cloud adoption, helping our customers navigate the complexities of cloud services while leveraging the full potential of the Civo cloud in a secure, efficient, and scalable manner.
 
-[![webapp-thumbnail](./images/web-application-reference-architecture.png)](./web-app-diagram.md) &nbsp;&nbsp; [![cloud-infra-thumbnail](./images/cloud-infra-reference-architecture.png)](./IaC.md)
+[![webapp-thumbnail](./images/web-application-reference-architecture.png)](./web-app-diagram.md) &nbsp;&nbsp; [![cloud-infra-thumbnail](./images/cloud-infra-reference-architecture.png)](./IaC.md) &nbsp;&nbsp; [![serverless-thumbnail](./images/serverless-reference-architecture.png)](./serverless.md) &nbsp;&nbsp; [![high-avail-thumbnail](./images/high-availability-reference-architecture.png)](./high-availability.md) 
 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/hDJIGePh1io?si=OoVZx2eCRGrxJe0c&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Security
+title: Security 🔐
 description: Detailed security documentation and whitepapers to outline Civo's security practices, protocols, and technologies.
 ---
 

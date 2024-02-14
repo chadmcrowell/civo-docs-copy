@@ -1,5 +1,5 @@
 ---
-title: Product Security
+title: Infrastructure Security
 description: Civo's communication about product security like VMs, Databases, Storage, Kubernetes, and More!
 ---
 

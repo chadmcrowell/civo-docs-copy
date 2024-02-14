@@ -26,3 +26,11 @@ By focusing on platform security, Civo ensures that our customers infrastructure
 
 ### Trust and Privacy
 Civo undergoes regular audits to obtain certifications against globally recognized standards, such as ISO 27001, SOC 1, SOC 2, PCI DSS, and GDPR compliance. We share these certifications with customers to demonstrate adherence to high-security standards.
+
+[![trust-and-privacy-thumbnail](./images/trust-and-privacy-thumbnail.png)](./platform-security.md)
+
+### Security Best Practices
+
+### Infrastructure Security
+
+### Shared Responsibility Model

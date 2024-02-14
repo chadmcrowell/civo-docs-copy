@@ -12,4 +12,4 @@ description: Guides and best practices that allow you to quickly get up and runn
 
 These guides help to navigate the Civo platform effectively, ensuring the ability to fully leverage the cloud services offered. These guides serve multiple purposes, catering to a diverse range of user needs, from beginners to advanced developers and IT professionals.
 
-[![cloudnative-microservices-thumbnail](./images/cloud-native-microservices-guide-thumbnail.png)](./cloudnative-microsvc.md)
+[![cloudnative-microservices-thumbnail](./images/cloud-native-microservices-guide-thumbnail.png)](./cloudnative-microsvc.md) &nbsp;&nbsp; [![containers-intro-thumbnail](./images/intro-containers-thumbnail.png)](./cloudnative-microsvc.md)

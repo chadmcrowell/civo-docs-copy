@@ -7,3 +7,6 @@ description: This diagram illustrates the architecture for deploying a web appli
 ## Overview
 
 This diagram illustrates the architecture for deploying a web application on Civo cloud, showcasing components like load balancers, databases, and auto-scaling groups.
+
+![High availability web app](./images/web-app-reference-architecture-diagram.png)
+

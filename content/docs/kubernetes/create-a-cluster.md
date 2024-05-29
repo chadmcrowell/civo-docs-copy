@@ -25,7 +25,7 @@ Running GPU workloads on Kubernetes is becoming increasingly common due to the f
 - **NVIDIA L40S GPU:** With 48GB of GDDR6 memory, this GPU is suitable for tasks requiring a blend of AI computations and advanced graphics processing, such as 3D graphics rendering and training large language models.
 - **NVIDIA GH200 Grace Hopper Superchip:** This GPU features an integrated CPU-GPU architecture and is tailored for generative AI, large-scale AI inference, and high-performance computing workloads that demand substantial memory and processing power.
 
-To deploy GPU workloads on Kubernetes, [add a new node pool to your cluster](https://www.civo.com/docs/kubernetes/managing-node-pools) and [install the Kubernetes operator for GPU nodes](https://civo.com/docs)
+To deploy GPU workloads on Kubernetes, [add a new node pool to your cluster](../kubernetes/managing-node-pools.md) and [install the Kubernetes operator for GPU nodes](../kubernetes/installing-gpu-operator.md)
 
 ### Deploy Standard, Performance, or CPU Optimized Workloads on Civo Kubernetes
 

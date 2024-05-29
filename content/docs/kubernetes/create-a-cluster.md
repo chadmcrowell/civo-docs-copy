@@ -11,7 +11,19 @@ import TabItem from '@theme/TabItem';
 
 ## Overview
 
-Creating a managed Kubernetes cluster on Civo provides you with options, from a streamlined experience to customisation of various aspects of how your cluster is set up. The documentation below covers the main options available on initial cluster launch.
+Creating a managed Kubernetes cluster on Civo provides you with options, from a streamlined experience to customisation of various aspects of how your cluster is set up. To run GPU workloads (e.g. TensorFlow, PyTorch, Real-time Inference, etc.) on Kubernetes, you will need higher computational requirements. Large models will require nodes with more GPU memory.
+
+## Deploy GPU Workloads on Civo Kubernetes
+
+Running GPU workloads on Kubernetes is becoming increasingly common due to the flexibility and scalability it provides. Deciding on the type of Kubernetes nodes involves many considerations. Whether you require low-latency responses, high-throughput inference requests, or other performance needs, Civo has you covered.
+
+Civo provides the following GPU Types:
+- NVIDIA A100 Tensor Core GPU: Available in both 40GB and 80GB variants, this GPU is designed for high-demand workloads such as machine learning model training, large language models, and scientific computing. It offers significant computational power with over 312 teraflops of FP16 performance and 1,248 Tensor cores.
+- NVIDIA H100 Tensor Core GPU: Known for its advanced Hopper architecture, this GPU excels in AI training and inference tasks, making it ideal for developing and deploying large AI models like chatbots and recommendation engines.
+- NVIDIA L40S GPU: With 48GB of GDDR6 memory, this GPU is suitable for tasks requiring a blend of AI computations and advanced graphics processing, such as 3D graphics rendering and training large language models.
+- NVIDIA GH200 Grace Hopper Superchip: This GPU features an integrated CPU-GPU architecture and is tailored for generative AI, large-scale AI inference, and high-performance computing workloads that demand substantial memory and processing power.
+
+To deploy GPU workloads on Kubernetes, [add a new node pool to your cluster](https://www.civo.com/docs/kubernetes/managing-node-pools) and [install the Kubernetes operator for GPU nodes](https://civo.com/docs)
 
 <Tabs groupId="create-cluster">
 <TabItem value="dashboard" label="Dashboard">

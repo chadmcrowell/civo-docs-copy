@@ -27,7 +27,7 @@ Running GPU workloads on Kubernetes is becoming increasingly common due to the f
 
 To deploy GPU workloads on Kubernetes, [add a new node pool to your cluster](https://www.civo.com/docs/kubernetes/managing-node-pools) and [install the Kubernetes operator for GPU nodes](https://civo.com/docs)
 
-## Deploy Standard, Performance, or CPU Optimized Workloads on Civo Kubernetes
+### Deploy Standard, Performance, or CPU Optimized Workloads on Civo Kubernetes
 
 The following instructions outline the steps for creating a Kubernetes cluster for standard workloads, with options to set up the cluster using the Civo Dashboard, Civo CLI, or Terraform.
 
